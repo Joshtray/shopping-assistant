@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "joshtray",
+        "MONGO_PASSWORD": "fx345cb8p",
+        "MONGO_DB": "shopping-assistant"
+    }
+}
